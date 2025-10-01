@@ -15,9 +15,6 @@
 
 ### 基本用法
 
-**体验地址**
-https://lanzou.jasmiam.top
-
 1. **获取蓝奏云分享链接**
 例如：https://wwi.lanzoup.com/i12345678
 
@@ -93,19 +90,6 @@ A: Cloudflare Worker免费版有每日10万次请求限制，个人使用完全�
 ### Q4: 如何更新解析逻辑？
 A: 直接在Cloudflare Worker编辑器中更新代码并重新部署。
 
-## 📞 技术支持
-
-如果遇到问题：
-
-1. 首先使用 `&debug=1` 参数查看详细错误信息
-2. 检查蓝奏云链接是否有效
-3. 在GitHub Issues中提交问题
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
-
-## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
 
